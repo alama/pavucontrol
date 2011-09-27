@@ -17,7 +17,7 @@
 # You should have received a copy of the GNU General Public License
 # along with pavucontrol. If not, see <http://www.gnu.org/licenses/>.
 
-VERSION=1.9
+VERSION=1.11
 
 run_versioned() {
     local P
